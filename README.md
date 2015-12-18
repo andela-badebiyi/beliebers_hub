@@ -14,3 +14,5 @@ This is a simple laravel project I created to practicalize my laravel training, 
 3. run php artisan key:generate
 4. Create a database on your local machine with db_name = 'justin'
 you will find a public folder where our index.php is. This is where the site is served from.
+5. On console run `php artisan migrate` in root directory.
+6. On console run `php artisan db:seed` in root directory.
